@@ -32,7 +32,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto pode ser acessado diretamente através do seguinte link:
 
-🔗 [challenge-amigo-secreto]([https:///](https://arhurm.github.io/challenge-amigo-secreto/))
+🔗 [challenge-amigo-secreto](https://arhurm.github.io/challenge-amigo-secreto/)
 
 
 ## 📄 Como usar:
